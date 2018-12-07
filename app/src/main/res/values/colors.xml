@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<color name="colorLightPrimary">#FFF</color>
+	<color name="colorLightPrimaryDark">#FFF</color>
+	<color name="colorLightAccent">@color/color_purple_mountain</color>
+
+	<color name="colorPrimary">@color/color_purple_mountain</color>
+	<color name="colorPrimaryDark">@color/color_purple_mountain</color>
+	<color name="colorAccent">#FFF</color>
+
+	<color name="colorBackground">#fff</color>
+
+	<color name="color_shadow">#337C6AAC</color>
+
+	<color name="color_gray">#eee</color>
+	<color name="color_gray_50p">#90eeeeee</color>
+	<color name="color_gray_dark">#999999</color>
+	<color name="color_gray_low_light">#CECECE</color>
+	<color name="color_gray_light">#D0D0D0</color>
+	<color name="color_gray_xlight">#F2F2F2</color>
+	<color name="color_gray_xxlight">#F7F7F7</color>
+	<color name="color_gray_oslo">#95989A</color>
+	<color name="color_gray_oslo_light">#F2F4F7</color>
+
+
+	<color name="color_white">#fff</color>
+	<color name="color_orange">#f47023</color>
+	<color name="color_purple_light">#5C6082</color>
+	<color name="color_purple_xlight">#7c6aac</color>
+	<color name="color_purple_mountain">#987AC1</color>
+	<color name="color_purple_mountain_12p">#1F987AC1</color>
+	<color name="color_purple_dark">#482FBF</color>
+
+	<color name="color_east_bay">#4C4989</color>
+	<color name="color_east_bay_dark">#AB056E</color>
+	<color name="color_east_bay_50p">#804C4989</color>
+
+	<color name="color_blue_bay">#494687</color>
+	<color name="color_blue_haze">#ADB0C4</color>
+	<color name="color_blue_normal">#5476D2</color>
+	<color name="color_blue_normal_50p">#805476D2</color>
+	<color name="color_blue_haze_dark">#9497a8</color>
+	<color name="color_blue_light">#7E8AFF</color>
+
+	<color name="color_blue_haze_10p">#1AADB0C4</color>
+	<color name="color_blue_haze_15p">#27ADB0C4</color>
+
+	<color name="color_navy">#000A64</color>
+
+	<color name="color_bright_turquoise">#00EFB7</color>
+	<color name="color_bright_turquoise2">#00FFC8</color>
+
+	<color name="color_sunglow">#FFD72E</color>
+
+	<color name="color_gray_blue">#8e8e93</color>
+	<color name="color_gray_blue_dark">#40424F</color>
+	<color name="color_gray_blue2">#6D6D72</color>
+	<color name="color_gray_blue_light">#DCE3F1</color>
+	<color name="color_gray_blue_xlight">#EFEFF3</color>
+
+	<color name="color_orange_yellow">#F2DA4D</color>
+	<color name="color_yellow_light">#FEE771</color>
+	<color name="color_green_light">#00B991</color>
+	<color name="color_green_yellow_light">#0DFFC7</color>
+
+	<color name="color_green_a">#00C9A5</color>
+	<color name="color_green_b">#00FFBF</color>
+
+	<color name="color_pink_dark">#BB0271</color>
+
+	<color name="color_red_light">#959595</color>
+	<color name="color_red">#E85658</color>
+	<color name="color_red_dark">#b94546</color>
+	<color name="color_red_xlight">#FF93AC</color>
+
+	<color name="color_black_50p">#7F000000</color>
+	<color name="color_black_60p">#99000000</color>
+	<color name="color_black_12p">#1E000000</color>
+
+	<array name="color_swipe_refresh">
+		<item>@color/color_purple_mountain</item>
+		<item>@color/color_orange</item>
+	</array>
+
+
+	<color name="color_text_primary_dark">#DE000000</color> <!--87%-->
+	<color name="color_text_secondary_dark">#8A000000</color> <!--54%-->
+	<color name="color_text_disabled_dark">#61000000</color> <!--38%-->
+	<color name="color_divider_dark">#1F000000</color> <!--12%-->
+	<color name="color_icon_active_dark">#8A000000</color> <!--54%-->
+	<color name="color_icon_inactive_dark">#43000000</color> <!--38%-->
+
+	<color name="color_text_primary_light">#fff</color> <!--100%-->
+	<color name="color_text_secondary_light">#B3FFFFFF</color> <!--70%-->
+	<color name="color_text_disabled_light">#80FFFFFF</color> <!--50%-->
+	<color name="color_divider_light">#1FFFFFFF</color> <!--12%-->
+	<color name="color_icon_active_light">#FFFFFF</color> <!--100%-->
+	<color name="color_icon_inactive_light">#8AFFFFFF</color> <!--54%-->
+
+
+	<color name="color_navigation">#0f2196F3</color>
+
+
+
+</resources>

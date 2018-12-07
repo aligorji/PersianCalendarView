@@ -1,0 +1,56 @@
+<FrameLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:background="@drawable/shape_gradient_purple"
+	android:orientation="vertical">
+
+	<LinearLayout
+		android:layout_width="match_parent"
+		android:layout_height="60dp"
+		android:layout_gravity="top"
+		android:gravity="center"
+		android:orientation="horizontal">
+
+		<TextView
+			android:id="@+id/txt_year"
+			android:layout_width="0dp"
+			android:layout_height="match_parent"
+			android:layout_marginEnd="8dp"
+			android:layout_weight="1"
+			android:gravity="end|center_vertical"
+			android:textColor="#f0f2f3"
+			android:textSize="26dp" />
+
+		<TextView
+			android:id="@+id/txt_day_month"
+			android:layout_width="0dp"
+			android:layout_height="match_parent"
+			android:layout_marginStart="8dp"
+			android:layout_weight="1"
+			android:gravity="end|center_vertical"
+			android:textColor="#f0f2f3"
+			android:textSize="26dp" />
+	</LinearLayout>
+
+	<ir.aligorji.persiancalendar.PersianCalendarView
+		android:id="@+id/persian_calendar"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:layout_marginTop="50dp"
+		app:pcv_backgroundEvent="@drawable/shape_calendar_event"
+		app:pcv_backgroundSelectedDay="@drawable/shape_calendar_selected"
+		app:pcv_backgroundToday="@drawable/shape_calendar_today"
+		app:pcv_colorBackground="@android:color/transparent"
+		app:pcv_colorDayName="#99ffffff"
+		app:pcv_colorHoliday="#f20"
+		app:pcv_colorHolidaySelected="#fff"
+		app:pcv_colorNormalDay="#fff"
+		app:pcv_colorNormalDaySelected="#fff"
+		app:pcv_fontSize="22dp"
+		app:pcv_headersFontSize="18dp"
+		app:pcv_includeOfficialEvents="false"
+		app:pcv_selectableItem="true" />
+
+</FrameLayout>

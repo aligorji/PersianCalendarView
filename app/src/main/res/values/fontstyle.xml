@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<style name="MyTextAppearance" parent="android:TextAppearance">
+		<item name="android:fontFamily">@font/iran_sans_family</item>
+	</style>
+
+	<dimen name="fontsize_tiny">9dp</dimen>
+	<dimen name="fontsize_smaller">11dp</dimen>
+	<dimen name="fontsize_small">12dp</dimen>
+	<dimen name="fontsize_normal">14dp</dimen>
+	<dimen name="fontsize_large">17dp</dimen>
+	<dimen name="fontsize_xlarge">20dp</dimen>
+	<dimen name="fontsize_xxlarge">24dp</dimen>
+	<dimen name="fontsize_xxxlarge">28dp</dimen>
+	<dimen name="fontsize_huge">32dp</dimen>
+
+	<dimen name="lineSpacing">6dp</dimen>
+
+	<string name="defaultFontPath">fonts/iran_sans_light.ttf</string>
+
+</resources>
